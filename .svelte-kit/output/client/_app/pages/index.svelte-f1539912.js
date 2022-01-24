@@ -1,7 +1,0 @@
-import{S as j,i as w,s as S,e as u,t as m,k as g,c,a as d,h as p,d as r,m as y,b as A,g as W,G as t,L as E}from"../chunks/vendor-b8521e77.js";/* empty css                                                    */function C(V){let e,n,h,_,o,v,f,s,b,q,i,x;return{c(){e=u("div"),n=u("h2"),h=m("Welcome"),_=g(),o=u("p"),v=m(`Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum aspernatur,
-    in modi ea rem quaerat suscipit, eveniet impedit reprehenderit quae
-    provident molestias quisquam quibusdam necessitatibus explicabo. Ab
-    exercitationem ipsa officiis.`),f=g(),s=u("a"),b=m("View Guides"),q=g(),i=u("a"),x=m("About"),this.h()},l(l){e=c(l,"DIV",{class:!0});var a=d(e);n=c(a,"H2",{});var k=d(n);h=p(k,"Welcome"),k.forEach(r),_=y(a),o=c(a,"P",{});var G=d(o);v=p(G,`Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum aspernatur,
-    in modi ea rem quaerat suscipit, eveniet impedit reprehenderit quae
-    provident molestias quisquam quibusdam necessitatibus explicabo. Ab
-    exercitationem ipsa officiis.`),G.forEach(r),f=y(a),s=c(a,"A",{href:!0});var I=d(s);b=p(I,"View Guides"),I.forEach(r),q=y(a),i=c(a,"A",{href:!0});var L=d(i);x=p(L,"About"),L.forEach(r),a.forEach(r),this.h()},h(){A(s,"href","/guides"),A(i,"href","/about"),A(e,"class","index svelte-u5o6ua")},m(l,a){W(l,e,a),t(e,n),t(n,h),t(e,_),t(e,o),t(o,v),t(e,f),t(e,s),t(s,b),t(e,q),t(e,i),t(i,x)},p:E,i:E,o:E,d(l){l&&r(e)}}}class P extends j{constructor(e){super();w(this,e,null,C,S,{})}}export{P as default};
